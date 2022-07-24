@@ -1,0 +1,10 @@
+name = "Hide Multifunction Bar"
+version = 1
+copyright = "WTFPL"
+description = "Hides multifunction bar by default"
+author = "timocov"
+url = "https://github.com/timocov/FAF-hide-multifunction-bar-mod"
+uid = "DD571CE8-0B53-11ED-861D-0242AC120002"
+exclusive = false
+ui_only = true
+conflicts = {}
